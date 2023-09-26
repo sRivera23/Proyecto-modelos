@@ -1,7 +1,7 @@
 # Proyecto-modelos
 
-Daniel Luján Agudelo  1035970328 cc Ingeniería de sistemas presencial(504)
+Daniel Luján Agudelo - 1035970328 - Ingeniería de sistemas presencial(504)
 
-Santiago Rivera Montoya 1000654685 cc Ingeniería de sistemas presencial(504)
+Santiago Rivera Montoya - 1000654685 - Ingeniería de sistemas presencial(504)
 
-Emanuel López Higuita 1000662113 cc Ingeniería de sistemas presencial(504)
+Emanuel López Higuita - 1000662113 - Ingeniería de sistemas presencial(504)
