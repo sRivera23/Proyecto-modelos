@@ -8,3 +8,4 @@ Emanuel López Higuita - 1000662113 - Ingeniería de sistemas presencial(504)
 
 # Videos 
 - [Video segunda entrega](https://youtu.be/LL3NO8VgRFs)
+- [Video entrega final](https://youtu.be/QxVvctfkMxY)
